@@ -37,7 +37,7 @@ fizzlamb = lambda do |num|
   end
 end
 
-arraytofizz = Array(1..10)
+arraytofizz = Array(1..1000)
 
 #each do
 arraytofizz.each do |x|
