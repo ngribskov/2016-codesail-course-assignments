@@ -1,4 +1,5 @@
 #DRY-FizzBuzz
+#function
 def fizzbuzz(num) # performs the fizzbuzz calculation on an input number. no output
     if num % 3 == 0 && num % 5 == 0
       puts 'FizzBuzz'
@@ -11,7 +12,6 @@ def fizzbuzz(num) # performs the fizzbuzz calculation on an input number. no out
     end
 end
 
-  puts "======"
 #proc
 fizzproc = Proc.new do |num|
   if num % 3 == 0 && num % 5 == 0
@@ -24,6 +24,7 @@ fizzproc = Proc.new do |num|
     puts num
   end
 end
+#lambda
 fizzlamb = lambda do |num|
   if num % 3 == 0 && num % 5 == 0
     puts 'FizzBuzz'
