@@ -19,6 +19,9 @@ class Hospital < Building
   def purpose
     puts "I Heal People!"
   end
+  def self.howl
+    puts "Cause I'm hungry like the wolf!"
+  end
 end
 
 apartament = Building.new(20*20,4,20,['brick','steel','concrete'],['red'],false)
