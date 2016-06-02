@@ -37,7 +37,7 @@ end
 
 puts "How many shots do you want? Enter an Integer between 1 and " + chamber_size.to_s + "."
 while player_ct == nil #receives input from the player to determine how many shots to take before the computer.
-  player_ct = validate(1,chamber_size.to_i)
+  player_ct = validate(1,chamber_size)
 end
 chamber_size = chamber_size
 comp_ct = player_ct + 1 #defines which barrel the computer will be shot with
@@ -47,20 +47,20 @@ bullet_location_array.shuffle! # randomizes which index holds the bullet
 chamber = bullet_location_array.index(live_bullet_barrel) #determines which index holds the bullet
 chamber1 = chamber + 1 #changes the chamber element address to which nth bullet it is
 
-if chamber1 == player_ct.to_i
+if chamber1 == player_ct
   puts "Bang! You're Dead!"
-elsif chamber1 <= player_ct.to_i
-    1.upto(player_ct.to_i - 1) do |click|
+elsif chamber1 <= player_ct
+    1.upto(player_ct - 1) do |click|
     puts "*Click*"
   end
   puts "Bang! You're Dead!"
 elsif chamber1 == comp_ct
-  1.upto(player_ct.to_i) do |click|
+  1.upto(player_ct) do |click|
     puts "*Click*"
   end
   puts "You've survived. The Computer pulls the trigger: *Bang* You Win"
 else
-  1.upto(player_ct.to_i) do |click|
+  1.upto(player_ct) do |click|
     puts "*Click*"
   end
   puts "The Computer takes one shot. *Click*. You have the rest of the shots"
