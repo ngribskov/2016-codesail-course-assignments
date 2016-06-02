@@ -10,5 +10,17 @@ class Building
   end
 end
 
+class Hospital < Building
+  attr_accessor :num_patients
+  def initialize(countpatient, countwindow, countwalls, countstories, material, extcolors, airconTF)
+    super(countwindow, countwalls, countstories, material, extcolors, airconTF)
+    @num_patients = countpatient
+  end
+  def purpose
+    puts "I Heal People!"
+  end
+end
+
 apartament = Building.new(20*20,4,20,['brick','steel','concrete'],['red'],false)
 house = Building.new(2*6,4,2,['wood'],['blue','white','cerulean'],true)
+sacredheart = Hospital.new(1000,5*30,4,5,['plaster','concrete','steel'],['white','red'],true)
