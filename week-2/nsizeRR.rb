@@ -1,8 +1,9 @@
 #function
-def validate(min,max)
+def validate(min,max) #serves to force user to input in a integer. Requires either an upper or lower bound, or both bounds. Input nil if no bound for argument.
   val = gets.chomp.strip
-  if val == Fixnum
-    if min == nil
+  if val.length + 1 < val.to_f.to_s.length # + 1 eliminates corner case where the float is 'x.'. Logic analyzes if input is integer, not float
+    val = val.to_i
+    if min == nil # allows for validating a range with no minimum
       if val > max
         puts "Invalid Entry"
         val = nil
@@ -30,21 +31,21 @@ puts "Rules: There are 6 barrels and you are playing against the computer. Pick 
 puts "What Size Gun shall we use? Input a positive integer."
 player_ct = nil
 chamber_size = nil
-while chamber_size == nil
+while chamber_size == nil #receives input from player to determine the size of the game.
   chamber_size = validate(1, nil)
 end
 
 puts "How many shots do you want? Enter an Integer between 1 and " + chamber_size.to_s + "."
-while player_ct == nil
+while player_ct == nil #receives input from the player to determine how many shots to take before the computer.
   player_ct = validate(1,chamber_size.to_i)
 end
-chamber_size = chamber_size.to_i
-comp_ct = player_ct.to_i + 1 #defines which barrel the computer will be shot with
+chamber_size = chamber_size
+comp_ct = player_ct + 1 #defines which barrel the computer will be shot with
 live_bullet_barrel = rand(1..chamber_size)
 bullet_location_array = Array(1..chamber_size)
 bullet_location_array.shuffle! # randomizes which index holds the bullet
 chamber = bullet_location_array.index(live_bullet_barrel) #determines which index holds the bullet
-chamber1 = chamber + 1 #changes the chamber array address to which bullet it is
+chamber1 = chamber + 1 #changes the chamber element address to which nth bullet it is
 
 if chamber1 == player_ct.to_i
   puts "Bang! You're Dead!"
