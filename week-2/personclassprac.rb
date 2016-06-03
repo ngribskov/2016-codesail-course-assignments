@@ -75,3 +75,5 @@ class Teacher < Employee
     end
   end
 end
+
+tiffany = Teacher.new(10,false,"College",nil,"CodeSail","Full-Time", "Instructor",nil,"Tiffany","Pang","6/2/2016","black","brown","5ft5in")
