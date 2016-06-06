@@ -1,0 +1,132 @@
+champion,primary,secondary,attack,defense,ability,diff,date,ip,rp
+aatrox,fighter,tank,8,4,3,4,2013-06-13,6300,975
+ahri,mage,assassin,3,4,8,5,2011-12-14,4800,880
+akali,assassin,fighter,5,3,8,7,2010-05-11,3150,790
+alistar,tank,support,6,9,5,7,2009-02-21,1350,585
+amumu,tank,mage,2,6,8,3,2009-06-26,450,260
+anivia,mage,support,1,4,10,10,2009-07-10,3150,790
+annie,mage, ,2,3,10,6,2009-02-21,450,260
+ashe,marksman,support,7,3,2,4,2009-02-21,450,260
+aurelionsol,mage, ,2,3,8,7,2016-03-24,6300,975
+azir,mage,marksman,6,3,8,9,2014-09-16,6300,975
+bard,support,mage,4,4,5,9,2015-03-12,6300,975
+blitzcrank,tank,fighter,4,8,5,4,2009-09-02,3150,790
+brand,mage, ,2,2,9,4,2011-04-12,4800,880
+braum,support,tank,3,9,4,3,2014-05-12,6300,975
+caitlyn,marksman, ,8,2,2,6,2011-01-04,4800,880
+cassiopeia,mage, ,2,3,9,10,2010-12-14,4800,880
+cho'gath,tank,mage,3,7,7,5,2009-06-26,1350,585
+corki,marksman, ,8,3,6,6,2009-09-19,3150,790
+darius,fighter,tank,9,5,1,2,2012-05-23,4800,880
+diana,fighter,mage,7,6,8,4,2012-08-07,6300,975
+dr.mundo,fighter,tank,5,7,6,5,2009-09-02,1350,585
+draven,marksman, ,9,3,1,8,2012-06-06,4800,880
+ekko,assassin,fighter,5,3,7,8,2015-05-28,6300,975
+elise,mage,fighter,6,5,7,9,2012-10-26,6300,975
+evelynn,assassin,mage,4,2,7,10,2009-05-01,1350,585
+ezreal,marksman,mage,7,2,6,7,2010-03-16,4800,880
+fiddlesticks,mage,support,2,3,9,9,2009-02-21,1350,585
+fiora,fighter,assassin,10,4,2,3,2012-02-29,4800,880
+fizz,assassin,fighter,6,4,7,6,2011-11-15,4800,880
+galio,tank,mage,3,7,6,3,2010-08-10,4800,880
+gangplank,fighter, ,7,6,4,9,2009-08-19,3150,790
+garen,fighter,tank,7,7,1,5,2010-04-27,450,260
+gnar,fighter,tank,6,5,5,8,2014-08-14,6300,975
+gragas,fighter,mage,4,7,6,5,2010-02-02,3150,790
+graves,marksman, ,8,5,3,3,2011-10-19,4800,880
+hecarim,fighter,tank,8,6,4,6,2012-04-18,4800,880
+heimerdinger,mage,support,2,6,8,8,2009-10-10,3150,790
+illaoi,fighter,tank,8,6,3,4,2015-11-24,6300,975
+irelia,fighter,assassin,7,4,5,5,2010-11-16,4800,880
+janna,support,mage,3,5,7,7,2009-09-02,1350,585
+jarvaniv,tank,fighter,6,8,3,5,2011-03-01,4800,880
+jax,fighter,assassin,7,5,7,5,2009-02-21,1350,585
+jayce,fighter,marksman,8,4,3,7,2012-07-07,6300,975
+jhin,marksman,assassin,10,2,6,6,2016-02-01,6300,975
+jinx,marksman, ,9,2,4,6,2013-10-10,6300,975
+kalista,marksman, ,8,2,4,7,2014-11-20,6300,975
+karma,mage,support,1,7,8,5,2011-02-01,3150,790
+karthus,mage, ,2,2,10,7,2009-06-12,3150,790
+kassadin,assassin,mage,3,5,8,8,2009-08-07,3150,790
+katarina,assassin,mage,4,3,9,8,2009-09-19,3150,790
+kayle,fighter,support,6,6,7,7,2009-02-21,450,260
+kennen,mage,marksman,6,4,7,4,2010-04-08,4800,880
+kha'zix,assassin,fighter,9,4,3,6,2012-09-27,6300,975
+kindred,marksman,assassin,8,2,2,4,2015-10-14,6300,975
+kog'maw,marksman,mage,8,2,5,6,2010-06-24,4800,880
+leblanc,assassin,mage,1,4,10,9,2010-11-02,3150,790
+leesin,fighter,assassin,8,5,3,6,2011-04-01,4800,880
+leona,tank,support,4,8,3,4,2011-07-13,4800,880
+lissandra,mage, ,2,5,8,6,2013-04-30,6300,975
+lucian,marksman, ,8,5,3,6,2013-08-22,6300,975
+lulu,support,mage,4,5,7,5,2012-03-20,4800,880
+lux,mage,support,2,4,9,5,2010-10-19,3150,790
+malphite,tank,fighter,5,9,7,2,2009-09-02,1350,585
+malzahar,mage,assassin,2,2,9,6,2010-06-01,4800,880
+maokai,tank,mage,3,8,6,3,2011-02-16,4800,880
+masteryi,assassin,fighter,10,4,2,4,2009-02-21,450,260
+missfortune,marksman, ,8,2,5,1,2010-09-08,3150,790
+mordekaiser,fighter, ,4,6,7,4,2010-02-24,3150,790
+morgana,mage,support,1,6,8,1,2009-02-21,1350,585
+nami,support,mage,4,3,7,5,2012-12-07,6300,975
+nasus,fighter,tank,7,5,6,6,2009-10-01,1350,585
+nautilus,tank,fighter,4,6,6,6,2012-02-14,4800,880
+nidalee,assassin,fighter,5,4,7,8,2009-12-17,3150,790
+nocturne,assassin,fighter,9,5,2,4,2011-03-15,4800,880
+nunu,support,fighter,4,6,7,4,2009-02-21,450,260
+olaf,fighter,tank,9,5,3,3,2010-06-09,3150,790
+orianna,mage,support,4,3,9,7,2011-06-01,4800,880
+pantheon,fighter,assassin,9,4,3,4,2010-02-02,3150,790
+poppy,tank,fighter,6,7,2,6,2010-01-13,450,260
+quinn,marksman,fighter,9,4,2,5,2013-03-01,6300,975
+rammus,tank,fighter,4,10,5,5,2009-07-10,1350,585
+rek'sai,fighter, ,8,5,2,3,2014-12-11,6300,975
+renekton,fighter,tank,8,5,2,3,2011-01-18,4800,880
+rengar,assassin,fighter,7,4,2,8,2012-08-21,6300,975
+riven,fighter,assassin,8,5,1,8,2011-09-14,4800,880
+rumble,fighter,mage,3,6,8,10,2011-04-26,4800,880
+ryze,mage,fighter,2,2,10,7,2009-02-21,450,260
+sejuani,tank,fighter,5,7,6,4,2012-01-17,4800,880
+shaco,assassin, ,8,4,6,9,2009-10-10,3150,790
+shen,tank,fighter,3,9,3,4,2010-03-24,3150,790
+shyvana,fighter,tank,8,6,3,4,2011-11-01,3150,790
+singed,tank,fighter,4,8,7,5,2009-04-18,450,260
+sion,tank,fighter,5,9,3,5,2009-02-21,1350,585
+sivir,marksman, ,9,3,1,4,2009-02-21,450,260
+skarner,fighter,tank,7,6,5,5,2011-08-09,4800,880
+sona,support,mage,5,2,8,4,2010-09-21,3150,790
+soraka,support,mage,2,5,7,3,2009-02-21,450,260
+swain,mage,fighter,2,6,9,8,2010-10-05,4800,880
+syndra,mage,support,2,3,9,8,2012-09-13,6300,975
+tahmkench,support,tank,3,9,6,5,2015-07-09,6300,975
+taliyah,mage,support,1,7,8,5,2016-05-18,6300,975
+talon,assassin,fighter,9,3,1,7,2011-08-24,4800,880
+taric,support,fighter,4,8,5,3,2009-08-19,1350,585
+teemo,marksman,assassin,5,3,7,6,2009-02-21,1350,585
+thresh,support,fighter,5,6,6,7,2013-01-23,6300,975
+tristana,marksman,assassin,9,3,5,4,2009-02-21,1350,585
+trundle,fighter,tank,7,6,2,5,2010-12-01,4800,880
+tryndamere,fighter,assassin,10,5,2,5,2009-05-01,1350,585
+twistedfate,mage, ,6,2,6,9,2009-02-21,1350,585
+twitch,marksman,assassin,9,2,3,6,2009-05-01,3150,790
+udyr,fighter,tank,8,7,4,7,2009-12-02,1350,585
+urgot,marksman,fighter,8,5,3,8,2010-08-24,3150,790
+varus,marksman,mage,7,3,4,2,2012-05-08,4800,880
+vayne,marksman,assassin,10,1,1,8,2011-05-10,4800,880
+veigar,mage, ,2,2,10,7,2009-07-24,1350,585
+vel'koz,mage, ,2,2,10,8,2014-02-27,6300,975
+vi,fighter,assassin,8,5,3,4,2012-12-19,6300,975
+viktor,mage, ,2,4,10,9,2011-12-29,4800,880
+vladimir,mage,tank,2,6,8,7,2010-07-27,4800,880
+volibear,fighter,tank,7,7,4,3,2011-11-29,4800,880
+warwick,fighter,tank,7,4,4,3,2009-02-21,450,260
+wukong,fighter,tank,8,5,2,3,2011-07-26,4800,880
+xerath,mage,assassin,1,3,10,8,2011-10-05,4800,880
+xinzhao,fighter,assassin,8,6,3,2,2010-07-13,1350,585
+yasuo,fighter,assassin,8,4,4,10,2013-12-13,6300,975
+yorick,fighter,mage,6,6,6,4,2011-06-22,4800,880
+zac,tank,fighter,3,7,7,8,2013-03-29,6300,975
+zed,assassin,fighter,9,2,1,7,2012-11-13,6300,975
+ziggs,mage, ,2,4,9,4,2012-02-01,4800,880
+zilean,support,mage,2,5,8,6,2009-04-18,1350,585
+zyra,mage,support,4,3,8,7,2012-07-24,6300,975
