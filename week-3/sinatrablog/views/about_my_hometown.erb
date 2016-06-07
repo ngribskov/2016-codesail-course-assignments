@@ -1,0 +1,11 @@
+<div class = "container">
+  <%=@name_of_hometown%>
+  <"I have lived here since <%=@time_lived%>">
+  <%if @born == true%>
+    <"I was born here.">
+  <%else%>
+    <"I moved here in <%=@time_lived%>">
+  <%end%>
+  <a href="/">about me</a>
+  <a href="/06_07_2016">TIL Blogpost</a>
+</div>
